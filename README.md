@@ -11,8 +11,10 @@ This project involved collecting, transforming, and meticulously analyzing crick
 3. Best Finishers: Cricketers with a reputation for delivering in the late stages of a match.
 4. Best All-Rounders: Players who contribute significantly with both bat and ball.
 5. Best Specialist Fast Bowlers: Those with a strong track record of fast and effective bowling.
+   
+![Cricket Best 11](https://github.com/Shivamgautam79/T20-Players-Worldwide-/assets/149200088/3dc923b3-3b42-4767-817c-163a3104e003)
 
-   ![Codebasics Cricket Best 11 (1)_page-0006](https://github.com/Shivamgautam79/T20-Players-Worldwide-/assets/149200088/718225aa-b472-4801-b748-8511a5aec7ca)
+   
 
 
 Target Audience:
