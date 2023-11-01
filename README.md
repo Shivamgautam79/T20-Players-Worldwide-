@@ -12,6 +12,9 @@ This project involved collecting, transforming, and meticulously analyzing crick
 4. Best All-Rounders: Players who contribute significantly with both bat and ball.
 5. Best Specialist Fast Bowlers: Those with a strong track record of fast and effective bowling.
 
+   ![Codebasics Cricket Best 11 (1)_page-0006](https://github.com/Shivamgautam79/T20-Players-Worldwide-/assets/149200088/718225aa-b472-4801-b748-8511a5aec7ca)
+
+
 Target Audience:
 This dashboard is designed for cricket aficionados, enthusiasts, and analysts who are eager to explore, debate, and appreciate the finest talents in the cricketing world. It caters to a global audience that values data-driven insights and wants to engage in discussions about the sport's top performers.
 
@@ -28,6 +31,10 @@ Unique Selling Points (USPs):
 - Comprehensive Selection: This dashboard offers a holistic view of the best 11 cricketers globally, covering various playing roles.
 - Data-Driven Insights: The selection is not based on personal opinions but on a thorough analysis of statistics and performance.
 - Interactive Experience: Users can engage with the data, explore player profiles, and compare their favorite cricketers.
+  
+![Screenshot (353)](https://github.com/Shivamgautam79/T20-Players-Worldwide-/assets/149200088/9e43d51a-f221-4b70-a2d2-9a6991c3bbd4)
+
+  
 
 Expected Benefits:
 The "Cricket World's Best 11 Dashboard" is expected to provide cricket fans with a valuable resource for assessing and appreciating the skills and contributions of the world's top players. It will foster informed discussions and debates within the cricketing community and enhance the understanding of the game's dynamics.
