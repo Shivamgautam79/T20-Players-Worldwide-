@@ -1,9 +1,9 @@
-Project Name: Cricket World's Best 11 Dashboard
+"**Cricket World's Best 11 Players**"
 
-Project Objective:
+**Project Objective**:
 The "Cricket World's Best 11 Dashboard" project was initiated with the primary objective of identifying and presenting a comprehensive selection of the finest cricket players from around the world. This endeavor aimed to answer a crucial question for cricket enthusiasts: "Who are the best 11 cricketers globally, considering different roles and strengths within the game?"
 
-Project Scope:
+**Project Scope**:
 This project involved collecting, transforming, and meticulously analyzing cricket player data from various sources. The data was carefully scrutinized for quality and relevance to ensure the selection process was based on accurate and up-to-date information. Our focus was on identifying the following key categories of players:
 
 1. Best Openers: Those who excel at launching an innings and providing a strong foundation.
